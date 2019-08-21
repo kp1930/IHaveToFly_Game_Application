@@ -1,8 +1,10 @@
-package com.theblackdiamonds.ihavetofly;
+package com.theblackdiamonds.ihavetofly.activities;
+
+import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
+import com.theblackdiamonds.ihavetofly.R;
 
 public class MainActivity extends AppCompatActivity {
 
